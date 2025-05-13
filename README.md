@@ -27,3 +27,17 @@ npm run dev
 ```sh
 npm run build
 ```
+
+After finishing the code editing - time to commit and push
+# Command line to follow
+```sh
+git add .
+```
+
+```sh
+git commit -m "Your Commit Message - what have you done, what are your update"
+```
+
+```sh
+git push origin YOUR_BRANCH_NAME
+```
